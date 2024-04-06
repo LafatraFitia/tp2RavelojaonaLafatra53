@@ -1,4 +1,4 @@
-package com.mycompany.tp2ravelojaonalafatra53;
+package mg.itu.tp2ravelojaonalafatra53;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;

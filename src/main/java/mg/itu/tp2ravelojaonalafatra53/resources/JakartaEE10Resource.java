@@ -1,4 +1,4 @@
-package com.mycompany.tp2ravelojaonalafatra53.resources;
+package mg.itu.tp2ravelojaonalafatra53.resources;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
